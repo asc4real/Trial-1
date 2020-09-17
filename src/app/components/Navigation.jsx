@@ -21,6 +21,7 @@ import TimeLine from './TimeLine';
 import PriceCard from './PriceCard';
 import Maintab from './tabs/maintab';
 import { Grid } from 'semantic-ui-react';
+import VideoPlayer from './videogrid';
 
 const drawerWidth = 240;
 
@@ -166,6 +167,7 @@ export default function MiniDrawer() {
         <div className={classes.toolbar} />
         <Grid>
             <Grid.Column width={10}>
+                <VideoPlayer />
                 <Maintab />
             </Grid.Column>
             <Grid.Column width={6}>
@@ -173,6 +175,7 @@ export default function MiniDrawer() {
                 <TimeLine />
             </Grid.Column>
         </Grid>
+        
       </main>
     </div>
   );

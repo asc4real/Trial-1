@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/Trial-1/static/js/main.192ad079.chunk.js",
+    "main.js.map": "/Trial-1/static/js/main.192ad079.chunk.js.map",
+    "runtime-main.js": "/Trial-1/static/js/runtime-main.dc235fdc.js",
+    "runtime-main.js.map": "/Trial-1/static/js/runtime-main.dc235fdc.js.map",
+    "static/css/2.5c6ce110.chunk.css": "/Trial-1/static/css/2.5c6ce110.chunk.css",
+    "static/js/2.e7accb68.chunk.js": "/Trial-1/static/js/2.e7accb68.chunk.js",
+    "static/js/2.e7accb68.chunk.js.map": "/Trial-1/static/js/2.e7accb68.chunk.js.map",
+    "index.html": "/Trial-1/index.html",
+    "precache-manifest.bab2e6c7e0985f283ff83d45a2dd6540.js": "/Trial-1/precache-manifest.bab2e6c7e0985f283ff83d45a2dd6540.js",
+    "service-worker.js": "/Trial-1/service-worker.js",
+    "static/css/2.5c6ce110.chunk.css.map": "/Trial-1/static/css/2.5c6ce110.chunk.css.map",
+    "static/js/2.e7accb68.chunk.js.LICENSE.txt": "/Trial-1/static/js/2.e7accb68.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Trial-1/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/slick-theme.css": "/Trial-1/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc235fdc.js",
+    "static/css/2.5c6ce110.chunk.css",
+    "static/js/2.e7accb68.chunk.js",
+    "static/js/main.192ad079.chunk.js"
+  ]
+}
